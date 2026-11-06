@@ -1,10 +1,3 @@
-/*
- * TP Unidad 3 - Pilas y Colas con interfaz de consola
- * Enunciado 2 - Puerto de contenedores (pilas)
- * Alumno/a: Alvarez, Sebastian
- * Uso de IA: Claude y ChatGPT para hacer el codigo y resolver dudas de sintaxis y logica. Se le dio el enunciado y se le pidio que genere el codigo completo.
- * link chats: https://claude.ai/chat/ae38db56-b6ea-4106-bfd2-4240dc4ef4b2 y https://chatgpt.com/c/6aeaa28d-ed6c-83ea-9149-b6dc3407dd63
-*/
 #include <iostream>
 #include <string>
 #include <stack>
